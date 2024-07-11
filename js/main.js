@@ -17,7 +17,7 @@ do{
         let segundoMensaje = "Disfruta de los suplementos mas populares segun nuestra comunidad:\n\nProteina Whey protein 3kg ($50.600)\nCreatina Mervick 300grs ($21.000)\nAminoácidos ramificados o BCAAs Ultra Tech x120 Caps ($16.400)\nPre Workout Energy Mervick 907gr ($40.000)";
     alert(segundoMensaje);
     } else if (option === 3){
-        let tercerMensaje = "Promociones:\n\nPromo n1: Whey Protein 3kg + Creatina Mervick 300grs ($45.000)\n\nPromo n2:Creatina Mervick 300grs + Pre Workout Energy Mervick 907gr ($40.000)\n\nPromo n3:Natural Nutrition Omega 3 Suplemento + Bcaa 1 Kg ($32.000)";
+        let tercerMensaje = "Promociones:\n\nPromo N1:\nWhey Protein 3kg + Creatina Mervick 300grs ($45.000)\n\nPromo N2:\nCreatina Mervick 300grs + Pre Workout Energy Mervick 907gr ($40.000)\n\nPromo N3:\nNatural Nutrition Omega 3 Suplemento + Bcaa 1 Kg ($32.000)";
         alert(tercerMensaje);
     } else if (option === 0){
         alert("Gracias por elegirnos " +  cliente + " y recuerde mente sana cuerpo sano.\n ¡Que tenga un buen dia!")
